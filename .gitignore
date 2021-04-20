@@ -139,4 +139,8 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# grammars/*.(py|tokens|interp)
+src/grammars/*.py
+src/grammars/*.tokens
+src/grammars/*.interp
+
+.idea/
